@@ -1,4 +1,4 @@
-﻿//средний 26
+﻿//средний 20
 Console.WriteLine("|    x   |   y    |");
 for (double x = -5; x <= 10; x ++)
 {
